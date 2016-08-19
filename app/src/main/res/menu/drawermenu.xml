@@ -1,0 +1,48 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/home">
+    </item>
+
+    <item android:title="Eat"
+        android:id="@+id/eat"
+        android:icon="@drawable/eat">
+    </item>
+    <item android:title="Book"
+        android:id="@+id/book"
+        android:icon="@drawable/book">
+    </item>
+    <item android:title="Service"
+        android:id="@+id/service"
+        android:icon="@drawable/services">
+    </item>
+    <item android:title="Location"
+        android:id="@+id/location"
+        android:icon="@drawable/location">
+    </item>
+
+    <group android:id="@+id/bottom">
+        <item android:title="Register"
+            android:id="@+id/register"
+            android:icon="@drawable/register">
+        </item>
+        <item android:title="Amenities"
+            android:id="@+id/amenities"
+            android:icon="@drawable/services">
+        </item>
+    </group>
+
+    <group>
+        <item android:title="About us"
+            android:id="@+id/about_us"
+            android:icon="@drawable/about_us">
+        </item>
+        <item android:title="Contact Us"
+            android:id="@+id/contact_us"
+            android:icon="@drawable/contact_us">
+        </item>
+        <item android:title="Share"
+            android:id="@+id/share"
+            android:icon="@drawable/share">
+        </item>
+    </group></menu>

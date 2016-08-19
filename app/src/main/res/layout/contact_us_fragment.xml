@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+        android:id="@+id/imageView2"
+        android:src="@drawable/launcher_icon"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:text="Contact Us"
+        android:textAlignment="center"
+        android:textSize="23dp"
+        android:textStyle="bold"
+        android:textColorHint="@color/DarkRed" />
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="@drawable/call_us"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:numeric="integer"
+        android:text="+254 724 836 756"/>
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="@drawable/email_icon"/>/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:numeric="integer"
+        android:text="crownhotels@crownplaza.com"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:numeric="integer"
+        android:text="Kenya Road, Upper Hill, Nairobi, Kenya"/>
+
+</LinearLayout>

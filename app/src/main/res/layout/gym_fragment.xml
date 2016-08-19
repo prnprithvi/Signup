@@ -1,0 +1,31 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/coordinatorLayout">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/gym_img"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/imageView5" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="At the Fitness Centre, we have a variety of modern exercise equipments to cater for all your training goals and expectations.  For those who fancy outdoor exercise, there is a vast jogging track to take care of that and availability of exercise mats."
+            android:id="@+id/textView3"
+            android:layout_below="@+id/imageView5"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="116dp" />
+
+
+    </RelativeLayout>
+
+</android.support.design.widget.CoordinatorLayout>

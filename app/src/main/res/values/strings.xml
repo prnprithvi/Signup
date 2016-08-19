@@ -1,0 +1,85 @@
+<resources>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Crown Plaza</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="btn_proceed">PROCEED</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="program_one">Lorem ipsum dolor sit amet, vero munere accusata pri ei, cu sea purto veniam eloquentiam, fugit vocibus ea vis. Postea mollis prodesset eu per, ut sit fabulas detracto sententiae. Per idque aliquam lucilius te, semper nostro offendit his ad, nam in velit appareat mnesarchum.,</string>
+
+
+
+    <string-array name="title_array">
+        <item>Departure from Rome</item>
+        <item>Arrival.</item>
+        <item>Welcome Ceremony</item>
+        <item>Courtesy Call &amp; Discussions with the President</item>
+        <item>Meeting with Kenyan Authorities </item>
+    </string-array>
+
+
+    <string-array name="venue_array">
+        <item>Fiumicino airport</item>
+        <item>JKIA  Nairobi </item>
+        <item>State House, Nairobi</item>
+        <item>State House, Nairobi</item>
+        <item>State House, Nairobi</item>
+    </string-array>
+
+
+    <string-array name="time_array">
+        <item>07:45 - 17:00</item>
+        <item>17:00 - 18:00</item>
+        <item>18:00 - 18:30</item>
+        <item>18:30</item>
+    </string-array>
+
+    <string-array name="title_array2">
+        <item>Inter-religous and Ecumenical Meeting</item>
+        <item>Public Mass</item>
+        <item>Meeting with clergy, Priest, Nuns &amp; seminarists</item>
+        <item>Visit</item>
+    </string-array>
+
+    <string-array name="venue_array2">
+        <item>Apostolic Nunciature, Nairobi </item>
+        <item>University of Nairobi</item>
+        <item>St. Mary’s School Nairobi</item>
+        <item>UNEP/UNON</item>
+    </string-array>
+
+
+    <string-array name="title_array3">
+        <item>Visit to Kangemi Slum </item>
+        <item>Meeting with the Youth </item>
+        <item>Meeting with Kenya Conference of Catholic Bishops</item>
+        <item>Farewell Ceremony</item>
+        <item>Departure for Entebbe, Uganda.</item>
+    </string-array>
+
+    <string-array name="venue_array3">
+        <item>Kangemi , Nairobi</item>
+        <item>Kasarani Stadium, Nairobi</item>
+        <item>VIP lounge at Kasarani Stadium</item>
+        <item>JKIA  Nairobi </item>
+        <item>JKIA  Nairobi </item>
+    </string-array>
+
+    <string-array name="time_array3">
+        <item>08:30 – 10:00</item>
+        <item>10:00 – 11:15</item>
+        <item>15:10 – 15:30</item>
+        <item>15:30</item>
+    </string-array>
+</resources>

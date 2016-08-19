@@ -1,0 +1,33 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/coordinatorLayout"
+    tools:context="com.example.valerieatuti.signup.Amenities.GymFragment">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/swimming_pool"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/imageView4" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="The Club’s swimming pool nestles under the vaulted ceilings of the original cellars, creating a spacious and calming environment.
+The main swimming pool measures 25 by 11m while the baby pool measures 11m by 4m. The pool section has Qualified Lifeguards, always on the site, who are also swimming fitness instructors for beginners and advanced members.."
+            android:id="@+id/textView2"
+            android:layout_marginTop="52dp"
+            android:layout_below="@+id/imageView4"
+            android:layout_alignParentStart="true" />
+
+
+    </RelativeLayout>
+
+</android.support.design.widget.CoordinatorLayout>
